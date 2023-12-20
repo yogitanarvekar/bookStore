@@ -1,0 +1,1 @@
+export const mongodburl ="mongodb+srv://narvekaryogita2001:lTG8bQguaYIO2jhM@bookstore.tpgwbeo.mongodb.net/?retryWrites=true&w=majority"
