@@ -40,16 +40,16 @@ npm run dev
 #### The Server should now be running at http://localhost:3000/
 
 ## Main Page 
-![Screenshot (283)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(8).png)
+![Screenshot (200)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(8).png)
 
 ## Create book page
-![Screenshot (283)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(7).png)
+![Screenshot (200)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(7).png)
 
 ## Show single book page
-![Screenshot (283)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(10).png)
+![Screenshot (200)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(10).png)
 
 ## Edit book page 
-![Screenshot (283)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(6).png)
+![Screenshot (200)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(6).png)
 
 ## Delete book page 
-![Screenshot (283)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(9).png)
+![Screenshot (200)](https://github.com/yogitanarvekar/bookStore/blob/master/frontend/public/Screenshot%20(9).png)
