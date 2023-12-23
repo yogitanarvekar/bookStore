@@ -31,6 +31,7 @@ This is a full-stack MERN (MongoDB, Express.js, React, Node.js) project
 ##### Installing NPM dependencies
 
 cd backend / frontend
+
 npm install
 
 ##### Then simply start your app
